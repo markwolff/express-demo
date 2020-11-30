@@ -1,0 +1,8 @@
+{
+    "appService.zipIgnorePattern": [
+        "node_modules{,/**}",
+        ".vscode{,/**}"
+    ],
+    "appService.deploySubpath": ".",
+    "appService.defaultWebAppToDeploy": "/subscriptions/65b2f83e-7bf1-4be3-bafc-3a4163265a52/resourceGroups/marwolff/providers/Microsoft.Web/sites/marwolff-deleteme-nodejs-attach"
+}
